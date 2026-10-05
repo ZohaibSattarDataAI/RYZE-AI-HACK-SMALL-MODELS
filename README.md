@@ -45,7 +45,8 @@ The system is designed for the **Ryze AI Hack 2026**, where AI models must have 
 ---
 ## 📸 Dashboard
 
-![FinGuard AI Dashboard](![Uploading Screenshot 2026-10-06 040218.png…]
+![FinGuard AI Dashboard](<img width="976" height="709" alt="finguard_dashboard png" src="https://github.com/user-attachments/assets/3d6d59ad-993d-45ea-be40-afa94cbc0479" />
+]
 
 
 
