@@ -43,6 +43,11 @@ The system is designed for the **Ryze AI Hack 2026**, where AI models must have 
 > **Important:** FinGuard AI is a financial safety and decision-support tool. It does not provide investment advice, approve or reject loans, or replace a bank or financial institution. Risk scores indicate potential risk and should be reviewed by the user.
 
 ---
+## 📸 Dashboard
+
+![FinGuard AI Dashboard](![Uploading Screenshot 2026-10-06 040218.png…]()
+)
+
 
 # ✨ Key Features
 
