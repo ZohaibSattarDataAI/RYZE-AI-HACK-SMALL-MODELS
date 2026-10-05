@@ -1,0 +1,38 @@
+date,amount,merchant,category,description
+2026-01-05,2000.0,Foodpanda,Food,routine order
+2026-01-07,1800.0,Careem,Transport,ride
+2026-01-10,2200.0,Foodpanda,Food,routine order
+2026-01-12,1900.0,Daraz,Shopping,item
+2026-01-15,2100.0,Careem,Transport,ride
+2026-01-18,1950.0,Foodpanda,Food,routine order
+2026-01-20,2000.0,K-Electric,Utilities,bill
+2026-01-22,2050.0,Daraz,Shopping,item
+2026-01-25,1800.0,Careem,Transport,ride
+2026-01-28,2100.0,Foodpanda,Food,routine order
+2026-02-05,2050.0,Foodpanda,Food,routine order
+2026-02-07,1850.0,Careem,Transport,ride
+2026-02-10,2150.0,Foodpanda,Food,routine order
+2026-02-12,1900.0,Daraz,Shopping,item
+2026-02-15,2000.0,Careem,Transport,ride
+2026-02-18,1950.0,Foodpanda,Food,routine order
+2026-02-20,2100.0,K-Electric,Utilities,bill
+2026-02-22,2000.0,Daraz,Shopping,item
+2026-02-25,1950.0,Careem,Transport,ride
+2026-02-28,2000.0,Foodpanda,Food,routine order
+2026-03-05,2000.0,Foodpanda,Food,routine order
+2026-03-07,1900.0,Careem,Transport,ride
+2026-03-10,2100.0,Foodpanda,Food,routine order
+2026-03-12,1850.0,Daraz,Shopping,item
+2026-03-15,2000.0,Careem,Transport,ride
+2026-03-18,1950.0,Foodpanda,Food,routine order
+2026-03-20,2050.0,K-Electric,Utilities,bill
+2026-03-22,2000.0,Daraz,Shopping,item
+2026-03-25,1900.0,Careem,Transport,ride
+2026-03-28,2000.0,Foodpanda,Food,routine order
+2026-04-05,25000.0,Landlord,Rent,monthly rent
+2026-04-08,2000.0,Foodpanda,Food,routine order
+2026-04-10,1900.0,Careem,Transport,ride
+2026-04-12,2000.0,Daraz,Shopping,item
+2026-04-15,120000.0,Unknown Crypto Exchange,Crypto,suspicious large transfer
+2026-04-16,85000.0,Unknown Crypto Exchange,Crypto,suspicious large transfer
+2026-04-18,95000.0,Unknown Crypto Exchange,Crypto,suspicious large transfer
