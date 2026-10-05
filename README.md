@@ -1,3 +1,5 @@
+# This project was submitted to the ryze.ai hackathon by Zohaib Sattar.
+
 # 🛡️ FinGuard AI
 
 <div align="center">
