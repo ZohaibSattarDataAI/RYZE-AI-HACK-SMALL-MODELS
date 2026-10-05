@@ -85,7 +85,7 @@ The system is designed for the **Ryze AI Hack 2026**, where AI models must have 
 
 ---
 
-# 🚀 Application Features
+#  Application Features
 
 ## 1. 📱 Scam Message Scanner
 
